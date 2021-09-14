@@ -1,5 +1,5 @@
 # Placement Management System
-## A Smart Way to Manage the Proogress of Students
+## A Smart Way to Manage the Progress of Students
 
 # Used Technologies
 
